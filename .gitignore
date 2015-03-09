@@ -5,3 +5,7 @@ pyvenv.cfg
 #.pyc
 __pycache__
 db.sqlite3
+pip-selfcheck.json
+
+personal-memo.md
+plans.md
